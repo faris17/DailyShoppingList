@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daily Shopping List</string>
+    <string name="Login">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Signup">Don\'t have an account ? Sign up here</string>
+    <string name="registration">Registration</string>
+    <string name="Signin">Already have account ? Sign in here</string>
+    <string name="total_ammount">Total Amount :</string>
+    <string name="addshopping">Add Shopping List</string>
+    <string name="type">Type:</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="save">SAVE</string>
+</resources>
